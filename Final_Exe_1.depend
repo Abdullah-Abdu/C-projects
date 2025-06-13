@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1435075296 source:c:\users\abc\desktop\2nd sem\introduction to programming\final_exe_1\citizen.cpp
+	<iostream>
+	"citizen.h"
+	<string.h>
+
+1435080443 c:\users\abc\desktop\2nd sem\introduction to programming\final_exe_1\citizen.h
+	<iostream>
+	<string.h>
+
+1435075354 source:c:\users\abc\desktop\2nd sem\introduction to programming\final_exe_1\main.cpp
+	<iostream>
+	"citizen.h"
+	<string.h>
+
+1435101757 source:c:\users\abc\desktop\2nd sem\introduction to programming\assignment_5\citizen\citizen.cpp
+	<iostream>
+	"citizen.h"
+	<string.h>
+
+1435101753 c:\users\abc\desktop\2nd sem\introduction to programming\assignment_5\citizen\citizen.h
+	<iostream>
+	<string.h>
+
+1435101762 source:c:\users\abc\desktop\2nd sem\introduction to programming\assignment_5\citizen\main.cpp
+	<iostream>
+	"citizen.h"
+	<string.h>
+
